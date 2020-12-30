@@ -5,7 +5,7 @@ A simple import of Zavok's Forces model. Replaces Chaos 0. Looks funny when hold
 
 - Install [SA2 Mod Loader](https://gamebanana.com/tools/6333)
 - Install [Character Select Plus](https://gamebanana.com/guis/35023)
-- Download CHADvok.zip
+- Download CHADvok 1.1.zip
 - Put the CHADvok folder in Steam/steamapps/common/Sonic Adventure 2/mods/
 - Enable CHADvok in SA2 Mod Loader
 - Make sure it's at the bottom of your load order
